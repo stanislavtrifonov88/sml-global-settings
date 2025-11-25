@@ -3,3 +3,5 @@ overrides:
     xmla.auth.token.enabled: true
     query.language.mdx.dimquery.result.limit: -1
     query.result.max_rows: 200000
+    security.runtimePermissions.measures.enabled: true 
+    
