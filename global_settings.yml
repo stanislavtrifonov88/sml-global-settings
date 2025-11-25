@@ -4,4 +4,5 @@ overrides:
     query.language.mdx.dimquery.result.limit: -2
     query.result.max_rows: 200000
     security.runtimePermissions.measures.enabled: true
+    auth.runtimePermissions.disabled: false
     
