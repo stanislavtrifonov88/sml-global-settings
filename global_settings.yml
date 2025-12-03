@@ -2,7 +2,7 @@ object_type: global_settings
 overrides:
     xmla.auth.token.enabled: true
     query.language.mdx.dimquery.result.limit: -2
-    query.result.max_rows: 200000
+    query.result.max_rows: 900000
     security.runtimePermissions.measures.enabled: true
     auth.runtimePermissions.disabled: false
     
